@@ -1,0 +1,82 @@
+*{
+    /*outline: 1px dotted red;*/
+    font-family: serif, sans-serif;
+}
+
+.container{
+    background-color: #282828;
+    margin: 0px auto;
+    padding: 0px 4px 9px;
+    /*height: 1200px;*/
+    width: 990px;
+}
+
+.header{
+    min-height: 116px;
+}
+
+#logo{
+    display:inline-block;
+    vertical-align: top;
+    margin: 20px 590px 0px 10px;
+}
+
+h1{
+    display:inline-block;
+    vertical-align: top;
+    margin: 25px 15px 0px 0px;
+    text-align: right;
+    color: white;
+    font-size:15px;
+}
+
+.navigation{
+    height: 43px;
+    background-image:linear-gradient(#414141,#1c1c1c);
+    padding: 10px 0px 0px 15px;
+}
+button{
+    background-color: transparent;
+    border:0px;
+    border-style: solid;
+    border-left-width: 1px;
+    border-color:rgba(255, 255, 255, 0.637);;
+    color: rgb(192, 192, 192);
+    padding:7px 5px;
+    vertical-align: middle;
+}
+#home{
+    color:white;
+    border-left-width: 0px;
+}
+
+.picture_background{
+    background-color: #3b3b3b;
+    height:365px;
+}
+
+.icon_layer{
+    height:156px;
+    background-color: #1a1a1a;
+    padding:45px;
+}
+
+.icon{
+    display:inline-block;
+    width:220px;
+    height:109px;
+    vertical-align: top;
+}
+.icon h1{
+    color:orange;
+    font-size: 20px;
+    vertical-align: top;
+}
+
+.icon p{
+    color:white;
+    width:200px;
+}
+.icon img{
+
+}
