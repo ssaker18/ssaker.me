@@ -1,5 +1,5 @@
 $(document).ready(function () {
-        $(".special").toggle("#secret");
+        $(".special").hide("#secret");
 
         $(".secret").click(function () {
             $(".secret").html("<h1>You found me!</h1>");
