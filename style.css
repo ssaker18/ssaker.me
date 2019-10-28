@@ -80,7 +80,7 @@ button{
 .icon img{
 
 }
-.main_pic {
+#main_pic {
   border-radius: 8px;
   display: block;
   margin-left: auto;
