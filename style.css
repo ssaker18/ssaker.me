@@ -89,6 +89,7 @@ button{
   width: 50%;
 }
 #food{
-  height:auto;
+  height:50px;
+  width: auto;
 
 }
